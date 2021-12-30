@@ -9,7 +9,7 @@ It has a nord theme, matching character highlighting, centers itself on the scre
 Some of my personal scripts use dmenu:
 [Here](https://github.com/sandalbanditten/scripts) they are!
 
-## Pacthes
+## Patches
 
 Here are the patches I use:
 * [center](https://tools.suckless.org/dmenu/patches/center/)
