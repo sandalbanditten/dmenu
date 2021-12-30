@@ -16,3 +16,8 @@ Here are the patches I use:
 * [border](https://tools.suckless.org/dmenu/patches/border/)
 * [line-height](https://tools.suckless.org/dmenu/patches/line-height/)
 * [highlight](https://tools.suckless.org/dmenu/patches/highlight/)
+
+## Screenshot
+
+Here is a screenshot of my dmenu_run:
+![My build of st](screenshot.png)
