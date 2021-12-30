@@ -6,5 +6,5 @@ It has a nord theme, matching character highlighting, centers itself on the scre
 
 # Scripts
 
-Here are some scripts that use dmenu:
-TODO: Add links to those scripts
+Some of my personal scripts use dmenu:
+[Here](https://github.com/sandalbanditten/scripts) they are!
