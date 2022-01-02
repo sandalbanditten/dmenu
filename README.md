@@ -30,4 +30,5 @@ Here is a screenshot of my dmenu_run:
 ![My build of st](screenshot.png)
 
 ## License
+
 The MIT/X Consortium License
