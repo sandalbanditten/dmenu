@@ -31,4 +31,4 @@ Here is a screenshot of my dmenu_run:
 
 ## License
 
-The MIT/X Consortium License
+The [MIT/X Consortium License](https://mit-license.org/)
