@@ -24,11 +24,6 @@ Here are the patches I use:
 * [line-height](https://tools.suckless.org/dmenu/patches/line-height/)
 * [highlight](https://tools.suckless.org/dmenu/patches/highlight/)
 
-## Screenshot
-
-Here is a screenshot of my dmenu_run:
-![My build of st](screenshot.png)
-
 ## License
 
 The [MIT/X Consortium License](https://mit-license.org/)
