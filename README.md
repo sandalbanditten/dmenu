@@ -21,7 +21,6 @@ The following of them use dmenu:
 Here are the patches I use:
 * [center](https://tools.suckless.org/dmenu/patches/center/)
 * [border](https://tools.suckless.org/dmenu/patches/border/)
-* [line-height](https://tools.suckless.org/dmenu/patches/line-height/)
 * [highlight](https://tools.suckless.org/dmenu/patches/highlight/)
 
 ## License
