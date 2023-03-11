@@ -4,6 +4,7 @@
 static int topbar = 1;                      /* -b  option; if 0, dmenu appears at bottom     */
 static int centered = 1;                    /* -c option; centers dmenu on screen */
 static int min_width = 500;                    /* minimum width when centered */
+static const unsigned int alpha = 0xd9;
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
 	"Fira Code:size=8"
@@ -19,6 +20,12 @@ static const char *colors[SchemeLast][2] = {
 };
 /* -l option; if nonzero, dmenu uses vertical list with given number of lines */
 static unsigned int lines      = 0;
+
+static const unsigned int alphas[SchemeLast][2] = {
+	[SchemeNorm] = { OPAQUE, alpha },
+	[SchemeSel] = { OPAQUE, alpha },
+	[SchemeOut] = { OPAQUE, alpha },
+};
 
 /*
  * Characters not considered part of a word while deleting words
